@@ -20,7 +20,7 @@
 </div>
 
 
-## Back-end Developer 
+## Full-Stack Dev 
 
 
 
