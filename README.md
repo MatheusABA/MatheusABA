@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Alexandre 👋🏻
 ### 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-barbier-b69ab3224)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alexandre-barbier-b69ab3224/)
 [![Social](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MatheusABA)
 
 ![Matheus Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusABA&show_icons=true&theme=synthwave&rank_icon=github&ring_color=ca58ed&hide=prs,issues)
