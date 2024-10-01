@@ -30,7 +30,11 @@
 	<img alt="figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50"/>&nbsp;
 	<br>
 	<img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>&nbsp;
-	<img alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50" background-color="white"/>&nbsp;
+	<img alt="fastapi" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50" height="50"/>&nbsp;
+	<img alt="numpy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50"/>&nbsp;
+	<img alt="pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50"/>&nbsp;
+	<img alt="opencv" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50" height="50"/>&nbsp;
+	<img alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>&nbsp;
 	<img alt="expressjs" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="axios" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" width="50" height="50"/>
 	<img alt="nestjs" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="50" height="50"/>&nbsp;
