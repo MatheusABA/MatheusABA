@@ -32,15 +32,11 @@
 	<img alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="fastapi" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>&nbsp;
-	<img alt="expressjs" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50"/>&nbsp;
-	<img alt="axios" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" width="50" height="50"/>
 	<img alt="nestjs" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="prisma" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="pgsql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>&nbsp;
-	<img alt="sqlite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>&nbsp;
-	<img alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" width="50" height="50"/>&nbsp;
-	<img alt="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>&nbsp;
+	<img alt="aws" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>&nbsp;
 	<img alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/>&nbsp;
 	
 <!--  	<img alt="aws" src="" width="50" height="50"/>&nbsp; -->
@@ -51,10 +47,8 @@
 	<img alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" height="50"/>&nbsp;
  	<img alt="csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50"/>&nbsp;
- 	<img alt="dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="50" height="50"/>&nbsp;
  	<img alt="prometheus" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="kubernet" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/>&nbsp;
- 	<img alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50"/>&nbsp;
  	<img alt="redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" height="50"/>&nbsp;
  	<img alt="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50" height="50"/>&nbsp;
  	<img alt="rabbitmq" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50"/>&nbsp;
