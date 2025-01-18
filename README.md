@@ -15,7 +15,7 @@
 </div>
 
 
-# <a href="https://www.linkedin.com/in/matheus-alexandre-barbier-b69ab3224/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="Social" ></a> Full Stack Dev 
+# <a href="https://www.linkedin.com/in/matheus-alexandre-barbier-b69ab3224/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="Social" ></a> Software Developer 
 
 
 <h3> Languages, Frameworks and Tools  </h3>
