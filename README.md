@@ -7,9 +7,8 @@
 
 <div style="display: inline_block"><br/>
 	<img alt="ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>
-	<img alt="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50">
-	<img alt="rider" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" width="50" height="50"/>
-	<img alt="webstorm" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" width="50" height="50"/>
+	<img alt="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+	<img alt="jetbrains" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="50" height"50"/>
 	<img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50" height="50"/>
  
 
@@ -37,7 +36,6 @@
 	<img alt="fastapi" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>&nbsp;
 	<img alt="nestjs" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="50" height="50"/>&nbsp;
- 	<img alt="csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="pgsql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="swagger" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" height="50"/>&nbsp;
@@ -50,14 +48,15 @@
 
 ### 📚: Improving... 
 <div style="display: inline_block"></br>
-	<img alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="50" height="50"/>&nbsp;
+ 	<img alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/>&nbsp;
+ 	<img alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" height="50"/>&nbsp;
+ 	<img alt="hibernate" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="50" height="50"/>&nbsp;
+ 	<img alt="csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="50" height="50"/>&nbsp;
 	<img alt="prisma" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="50" height="50"/>&nbsp;
 	<img alt="kubernet" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/>&nbsp;
- 	<img alt="redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" height="50"/>&nbsp;
  	<img alt="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50" height="50"/>&nbsp;
  	<img alt="rabbitmq" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50"/>&nbsp;
- 	<img alt="prometheus" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" width="50" height="50"/>&nbsp;
   
 
 
