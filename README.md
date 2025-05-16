@@ -17,7 +17,7 @@
 
 <h4> 🛠️ Back end - Database - Cloud - Containers - Queues 📟</h4>
 
-![](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,python,fastapi,hibernate,postgres,mongodb,mysql,docker,supabase,aws,firebase,gcp,azure,jest,rabbitmq,androidstudio&perline=12)
+![](https://skillicons.dev/icons?i=java,spring,androidstudio,nodejs,nestjs,express,python,fastapi,hibernate,postgres,mongodb,mysql,supabase,firebase,aws,gcp,azure,docker,jest,rabbitmq&perline=12)
 
 ### 📚: Improving... 
 
