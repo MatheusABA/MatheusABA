@@ -13,15 +13,15 @@
 
 <h4> 💻 Front end - Web - Mobile - Styles 📱 </h4>
 
-![](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,vercel,tailwind,materialui,figma&perline=12)
+![](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,vercel,tailwind,materialui,figma&perline=10)
 
 <h4> 🛠️ Back end - Database - Cloud - Containers - Queues 📟</h4>
 
-![](https://skillicons.dev/icons?i=java,spring,androidstudio,nodejs,nestjs,express,python,fastapi,hibernate,postgres,mongodb,mysql,supabase,firebase,aws,gcp,azure,docker,jest,rabbitmq&perline=12)
+![](https://skillicons.dev/icons?i=java,spring,androidstudio,go,nodejs,nestjs,express,python,fastapi,hibernate,postgres,mongodb,mysql,supabase,firebase,aws,gcp,azure,docker,jest,rabbitmq&perline=10)
 
 ### 📚: Improving... 
 
-![](https://skillicons.dev/icons?i=kotlin,ktor,go,graphql,redis,kubernetes,terraform,kafka,jenkins,prometheus,&perline=12)
+![](https://skillicons.dev/icons?i=kotlin,ktor,graphql,redis,kubernetes,terraform,kafka,jenkins,prometheus,&perline=12)
 
 <br>
 
