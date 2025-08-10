@@ -8,7 +8,7 @@
 
 ![Matheus Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusABA&show_icons=true&theme=synthwave&rank_icon=github&ring_color=ca58ed&hide=prs,issues)
 
-![](https://skills.syvixor.com/api/icons?i=linux,ubuntu,git,gitbash,visualstudiocode,intellijidea,webstorm)
+![](https://skills.syvixor.com/api/icons?i=linux,ubuntu,git)
 <a href="https://gitlab.com/MatheusABA"><img src="https://skills.syvixor.com/api/icons?i=gitlab" alt="Social" width="50" heigth="50"></a>
 <a href="https://www.linkedin.com/in/matheus-alexandre-b69ab3224"><img src="https://skills.syvixor.com/api/icons?i=linkedin" width="50" height="50" alt="Social" ></a>
 <a href="mailto:matheus.alencar02199@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail"></a>
@@ -17,15 +17,15 @@
 
 <h4> 💻 Front end - Web - Mobile - Styles 📱 </h4>
 
-![](https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,reactjs,reactnative,vite,nextjs,tailwindcss,materialui&perline=10)
+![](https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,reactjs,reactnative,expo,vite,nextjs,tailwindcss,materialui&perline=6)
 
 <h4> 🛠️ Back end - Database - Cloud - Containers - Queues 📟</h4>
 
-![](https://skills.syvixor.com/api/icons?i=java,springboot,android,golang,nodejs,nestjs,expressjs,python,fastapi,hibernate,postgresql,mongodb,mysql,supabase,firebase,amazonwebservices,googlecloud,docker,jest,rabbitmq&perline=10)
+![](https://skills.syvixor.com/api/icons?i=nestjs,expressjs,nodejs,java,spring,python,postgresql,mongodb,supabase,firebase,googlecloud,amazonwebservices,docker,rabbitmq,rest,websocket&perline=6)
 
 ### 📚: Improving... 
 
-![](https://skills.syvixor.com/api/icons?i=graphql,redis,kubernetes,terraform,kafka,jenkins,prometheus&perline=10)
+![](https://skills.syvixor.com/api/icons?i=golang,graphql,redis,kubernetes,terraform,kafka&perline=6)
 
 <br>
 
