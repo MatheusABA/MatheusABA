@@ -25,7 +25,7 @@
 
 ### 📚: Improving... 
 
-![](https://skills.syvixor.com/api/icons?i=golang,graphql,redis,kubernetes,terraform,kafka&perline=6)
+![](https://skills.syvixor.com/api/icons?i=golang,gin,gorm,graphql,redis,kubernetes,terraform,kafka&perline=6)
 
 <br>
 
