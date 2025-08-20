@@ -31,3 +31,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusABA&theme=vision-friendly-dark&layout=compact&langs_count=20&hide=objective-c,kotlin,swift,cmake,c,shell,cs,dart)
 
+[![Restaurant Project](https://github-readme-stats.vercel.app/api/pin/?username=MatheusABA&repo=Restaurant-Project&theme=dark)](https://github.com/MatheusABA/restaurant-project/)
