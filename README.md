@@ -21,7 +21,7 @@
 
 <h4> 🛠️ Back end - Database - Cloud - Containers - Queues 📟</h4>
 
-![](https://skills.syvixor.com/api/icons?i=nestjs,expressjs,nodejs,java,spring,python,postgresql,mongodb,supabase,firebase,googlecloud,amazonwebservices,docker,rabbitmq,rest,websocket&perline=6)
+![](https://skills.syvixor.com/api/icons?i=nestjs,expressjs,nodejs,java,spring,python,postgresql,mongodb,prisma,supabase,firebase,googlecloud,amazonwebservices,docker,rabbitmq,rest,websocket&perline=6)
 
 ### 📚: Improving... 
 
