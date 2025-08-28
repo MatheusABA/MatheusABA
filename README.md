@@ -21,14 +21,16 @@
 
 <h4> 🛠️ Back end - Database - Cloud - Containers - Queues 📟</h4>
 
-![](https://skills.syvixor.com/api/icons?i=nestjs,expressjs,nodejs,java,spring,python,postgresql,mongodb,prisma,supabase,firebase,googlecloud,amazonwebservices,docker,rabbitmq,rest,websocket&perline=6)
+![](https://skills.syvixor.com/api/icons?i=nestjs,expressjs,nodejs,go,java,spring,python,postgresql,mongodb,prisma,supabase,firebase,googlecloud,amazonwebservices,docker,rabbitmq,rest,websocket&perline=6)
 
 ### 📚: Improving... 
 
-![](https://skills.syvixor.com/api/icons?i=golang,gin,gorm,graphql,redis,kubernetes,terraform,kafka&perline=6)
+![](https://skills.syvixor.com/api/icons?i=gin,gorm,graphql,redis,kubernetes,terraform,kafka&perline=6)
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusABA&theme=vision-friendly-dark&layout=compact&langs_count=20&hide=objective-c,kotlin,swift,cmake,c,shell,cs,dart)
 
 [![Restaurant Project](https://github-readme-stats.vercel.app/api/pin/?username=MatheusABA&repo=Restaurant-Project&theme=dark)](https://github.com/MatheusABA/restaurant-project/)
+
+[![Golang Studies](https://github-readme-stats.vercel.app/api/pin/?username=MatheusABA&repo=golang&theme=dark)](https://github.com/MatheusABA/golang/)
