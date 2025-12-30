@@ -6,7 +6,7 @@
 <h3 align="center">FullStack Developer 👨‍💻 Mobile Developer 📱 Computer Engineer 🌐🛠️</h3>
 </br>
 
-![Matheus Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusABA&show_icons=true&theme=synthwave&rank_icon=github&ring_color=ca58ed&hide=prs,issues)
+![Matheus Alexandre GitHub stats](https://github-readme-stats-ten-omega-82.vercel.app/api?username=MatheusABA&show_icons=true&theme=synthwave&rank_icon=github&ring_color=ca58ed&hide=prs,issues)
 
 ![](https://skills.syvixor.com/api/icons?i=linux,ubuntu,git)
 <a href="https://gitlab.com/MatheusABA"><img src="https://skills.syvixor.com/api/icons?i=gitlab" alt="Social" width="50" heigth="50"></a>
@@ -29,4 +29,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusABA&theme=vision-friendly-dark&layout=compact&langs_count=20&hide=objective-c,kotlin,swift,cmake,c,shell,cs,dart)
+![Top Langs](https://github-readme-stats-ten-omega-82.vercel.app/api/top-langs/?username=MatheusABA&theme=vision-friendly-dark&layout=compact&langs_count=20&hide=objective-c,kotlin,swift,cmake,c,shell,cs,dart)
