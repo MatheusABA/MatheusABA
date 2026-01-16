@@ -1,31 +1,39 @@
-<h1 align="center">
+<h1>
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+you+all+!+%F0%9F%91%8B+;+I'm+Matheus+Alexandre!" alt="Matheus Alexandre" /> </a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=34&center=true&vCenter=true&random=false&loop=false&width=735&lines=Hi+you+all!+I'm+Matheus+Alexandre" alt="Matheus Alexandre" /> </a>
 </h1>
 
-<h3 align="center">FullStack Developer 👨‍💻 Mobile Developer 📱 Computer Engineer 🌐🛠️</h3>
+<h3 align="center">
+  Full Stack Developer • Mobile Developer • Computer Engineer
+</h3>
 </br>
 
+
 ![Matheus Alexandre GitHub stats](https://github-readme-stats-ten-omega-82.vercel.app/api?username=MatheusABA&show_icons=true&theme=synthwave&rank_icon=github&ring_color=ca58ed&hide=prs,issues)
+
 
 ![](https://skills.syvixor.com/api/icons?i=linux,ubuntu,git)
 <a href="https://gitlab.com/MatheusABA"><img src="https://skills.syvixor.com/api/icons?i=gitlab" alt="Social" width="50" heigth="50"></a>
 <a href="https://www.linkedin.com/in/matheus-alexandre-b69ab3224"><img src="https://skills.syvixor.com/api/icons?i=linkedin" width="50" height="50" alt="Social" ></a>
 <a href="mailto:matheus.alencar02199@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail"></a>
 
-<h3> Languages, Frameworks and Tools  </h3>
+<h3> Technologies I Have Worked With </h3>
 
-<h4> 💻 Front end - Web - Mobile - Styles 📱 </h4>
+<h4>Frontend • Web • Mobile • Styles</h4>
 
 ![](https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,reactjs,reactnative,expo,nextjs,tailwindcss,materialui&perline=6)
 
-<h4> 🛠️ Back end - Database - Cloud - Containers - Queues 📟</h4>
+<h4>Backend • Databases • Cloud • Containers • Messaging</h4>
 
-![](https://skills.syvixor.com/api/icons?i=nodejs,bun,nestjs,expressjs,go,java,spring,python,postgresql,mongodb,prisma,firebase,supabase,googlecloud,amazonwebservices,docker,rest,websocket&perline=6)
+![](https://skills.syvixor.com/api/icons?i=nodejs,nestjs,expressjs,python,postgresql,mongodb,prisma,firebase,googlecloud,amazonwebservices,digitalocean,nginx,pm2&perline=6)
 
-### 📚: Improving... 
+<h3>Technologies I’m Familiar With</h3>
 
-![](https://skills.syvixor.com/api/icons?i=php,gin,graphql,redis,kubernetes,terraform,rabbitmq,kafka&perline=6)
+![](https://skills.syvixor.com/api/icons?i=bun,go,java,spring,supabase,docker&perline=6)
+
+<h3>Currently Learning & Improving</h3>
+
+![](https://skills.syvixor.com/api/icons?i=php,gin,graphql,redis,zustand,kubernetes,terraform,rabbitmq&perline=6)
 
 <br>
 
