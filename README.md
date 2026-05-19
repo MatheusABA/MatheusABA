@@ -41,3 +41,5 @@
 <br>
 
 ![Top Langs](https://github-readme-stats-ten-omega-82.vercel.app/api/top-langs/?username=MatheusABA&theme=vision-friendly-dark&layout=compact&langs_count=20&hide=objective-c,kotlin,swift,cmake,c,shell,cs,dart)
+
+<a href="https://leetcode.com/u/MatheusABA/">![LeetCode Stats](https://leetcard.jacoblin.cool/MatheusABA?ext=activity&theme=catppuccinMocha&font=Jaldi)</a>
